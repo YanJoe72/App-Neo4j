@@ -54,6 +54,6 @@ Téléchargez Postman ici : [https://www.postman.com/downloads/](https://www.pos
 ### 2. Importer la collection de requêtes
 
 - Cliquez sur **"Import"**
-- Glissez-déposez ou sélectionnez le fichier `.json` de collection fourni (ex : `neo4j_api.postman_collection.json`)
+- Glissez-déposez ou sélectionnez le fichier `.json` de collection fourni (ex : `Curl Query.json`)
 - Une fois importée, vous pouvez exécuter directement les requêtes (GET, POST, etc.) vers : [http://localhost:5000](http://localhost:5000)
 
